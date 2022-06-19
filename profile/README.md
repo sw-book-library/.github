@@ -1,12 +1,26 @@
-## Hi there 👋
+# **WELCOME TO BOOK-LIBRARY!**
 
-<!--
+### This project was developed for **Educational Purposes**, to be made available to **Public Libraries**.
 
-**Here are some ideas to get you started:**
+&nbsp;
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# **OBJECTIVE**
+
+### The purpose of the project is to act as a book reservation system.
+
+&nbsp;
+
+# **APPLIED TECHNOLOGIES**
+
+## BACK-END:
+<a href="https://nodejs.org/en/"><img src="nodejs.svg" width="100"></a>
+<a href="https://www.mongodb.com"><img src="mongodb.svg" width="150"></a>
+<a href="https://expressjs.com"><img src="expressjs.svg" width="118"></a>
+
+&nbsp;
+
+## FRONT-END:
+<a href="https://reactjs.org"><img src="reactjs.svg" width="160"></a>
+
+<a href="https://css.com"><img src="css.png" width="70"></a>
+<a href="https://html.com"><img src="html.png" width="100"></a>
