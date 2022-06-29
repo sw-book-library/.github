@@ -15,17 +15,15 @@
 ### **BACK-END**:
 &nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.postgresql.org"><img src="postgresql.svg" width="100"></a>
-
-<a href="https://nodejs.org/en/"><img src="nodejs.svg" width="100"></a>
-<a href="https://expressjs.com"><img src="expressjs.svg" width="118"></a>
+[![Foo](postgresql.png)](https://www.postgresql.org) &nbsp;&nbsp;&nbsp;&nbsp;
+[![Foo](nodejs.png)](https://nodejs.org/en/) &nbsp;&nbsp;&nbsp;
+[![Foo](expressjs.png)](https://expressjs.com)
 
 
 &nbsp;
 
 ### **FRONT-END**:
 
-<a href="https://reactjs.org"><img src="reactjs.svg" width="190"></a>
-
-<a href="https://css.com"><img src="css.png" width="100"></a>
-<a href="https://html.com"><img src="html.png" width="140"></a>
+[![Foo](reactjs.png)](https://reactjs.org) &nbsp;&nbsp;&nbsp;
+[![Foo](css.png)](https://css.com) &nbsp;&nbsp;&nbsp;
+[![Foo](html.png)](https://html.com)
