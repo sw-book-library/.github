@@ -15,15 +15,15 @@
 ### **BACK-END**:
 &nbsp;
 
-[![Foo](./postgresql.png)](https://www.postgresql.org) &nbsp;&nbsp;&nbsp;&nbsp;
-[![Foo](./nodejs.png)](https://nodejs.org/en/) &nbsp;&nbsp;&nbsp;
-[![Foo](./expressjs.png)](https://expressjs.com)
+[![Foo](https://raw.githubusercontent.com/sw-book-library/.github/main/profile/postgresql.png)](https://www.postgresql.org) &nbsp;&nbsp;&nbsp;&nbsp;
+[![Foo](https://raw.githubusercontent.com/sw-book-library/.github/main/profile/nodejs.png)](https://nodejs.org/en/) &nbsp;&nbsp;&nbsp;
+[![Foo](https://raw.githubusercontent.com/sw-book-library/.github/main/profile/expressjs.png)](https://expressjs.com)
 
 
 &nbsp;
 
 ### **FRONT-END**:
 
-[![Foo](./reactjs.png)](https://reactjs.org) &nbsp;&nbsp;&nbsp;
-[![Foo](./css.png)](https://css.com) &nbsp;&nbsp;&nbsp;
-[![Foo](./html.png)](https://html.com)
+[![Foo](https://raw.githubusercontent.com/sw-book-library/.github/main/profile/reactjs.png)](https://reactjs.org) &nbsp;&nbsp;&nbsp;
+[![Foo](https://raw.githubusercontent.com/sw-book-library/.github/main/profile/css.png)](https://css.com) &nbsp;&nbsp;&nbsp;
+[![Foo](https://raw.githubusercontent.com/sw-book-library/.github/main/profile/html.png)](https://html.com)
